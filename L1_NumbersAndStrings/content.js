@@ -17,8 +17,8 @@ console.log(isNaN(parseInt("hello"))); // true
       Sequences of Unicode characters
  */
 
-console.log("Hello");
-console.log("aksh ay".length);
-console.log("akshya".charAt(1));
+console.log("Hello"); // Hello
+console.log("aksh ay".length); // 7
+console.log("akshya".charAt(1)); // k
 // + do concatenationj
-console.log("akshay".toUpperCase());
+console.log("akshay".toUpperCase()); // AKSHAY
